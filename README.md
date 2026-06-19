@@ -14,7 +14,7 @@ The project analyzes customer behavior, restaurant performance, delivery operati
 
 ## Home Dashboard
 
-![Home Dashboard](Images/Home.png)
+![Home Dashboard](Home.png)
 
 ---
 
