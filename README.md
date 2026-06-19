@@ -20,25 +20,25 @@ The project analyzes customer behavior, restaurant performance, delivery operati
 
 ## Sales Dashboard
 
-![Sales Dashboard](Images/Sales.png)
+![Sales Dashboard](Sales.png)
 
 ---
 
 ## Customer Dashboard
 
-![Customer Dashboard](Images/Customer.png)
+![Customer Dashboard](Customer.png)
 
 ---
 
 ## Delivery Dashboard
 
-![Delivery Dashboard](Images/Delivery.png)
+![Delivery Dashboard](Delivery.png)
 
 ---
 
 ## Business Analysis Dashboard
 
-![Analysis Dashboard](Images/Analysis.png)
+![Analysis Dashboard](Analysis.png)
 
 ---
 
@@ -211,38 +211,6 @@ Segmented customers using:
 * Monetary Value
 
 to identify loyal and high-value customers.
-
----
-
-# Project Structure
-
-```text
-Zomato-Sales-Analytics-Dashboard
-│
-├── README.md
-│
-├── Data
-│   ├── Zomato_Data.xlsx
-│   └── Zomato_Cleaned_Data.csv
-│
-├── Python
-│   └── Zomato_Data_Cleaning_and_EDA.ipynb
-│
-├── SQL
-│   └── SQL_Zomato_Project.sql
-│
-├── PowerBI
-│   └── Dashboard_Zomato.pbix
-│
-├── Images
-│   ├── Home.png
-│   ├── Sales.png
-│   ├── Customer.png
-│   ├── Delivery.png
-│   └── Analysis.png
-│
-└── README.md
-```
 
 ---
 
